@@ -1,0 +1,3 @@
+#Ignora .vs y .git 
+.vs
+.git

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CarRental.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:CarRental.WebApi.Controllers.CarRentalController.GetNearbyCars(System.String,System.String)">
+            <summary>
+            Servicio para consultar los vehículos disponibles en la zona y la tarifa de devolución si aplica
+            </summary>
+            <param name="dirIn" example="Bucaramanga - Santander">Dirección de recogida</param>
+            <param name="dirOut" example="Cúcuta - Norte de Santander">Dirección de entrega</param>
+            <returns></returns>
+        </member>
+        <member name="M:CarRental.WebApi.Controllers.CarRentalController.AddService(CarRental.WebApi.Models.RentalModel)">
+            <summary>
+            Servicio para efectuar transacción de renta
+            </summary>
+            <param name="rentalModel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CarRental.WebApi.Controllers.CarRentalController.GetRentalById(System.String)">
+            <summary>
+            Servicio para transacción efectuada de renta por medio del Id de transacción
+            </summary>
+            <param name="id">Id de transacción</param>
+            <returns></returns>
+        </member>
+        <member name="P:CarRental.WebApi.Models.RentalModel.CarId">
+            <summary>
+            Placa del vehículo
+            </summary>
+            <example>PLC-226</example>
+        </member>
+        <member name="P:CarRental.WebApi.Models.RentalModel.Model">
+            <summary>
+            Modelo del vehículo
+            </summary>
+            <example> Chevrolet Spark</example>
+        </member>
+        <member name="P:CarRental.WebApi.Models.RentalModel.PickUpMarket">
+            <summary>
+            Sucursal origen del vehículo
+            </summary>
+            <example>Bucaramanga - Santander</example>
+        </member>
+        <member name="P:CarRental.WebApi.Models.RentalModel.ReturnMarket">
+            <summary>
+            Sucursal donde será retornado el vehículo
+            </summary>
+            <example>Cúcuta - Norte de Santander</example>
+        </member>
+        <member name="P:CarRental.WebApi.Models.RentalModel.PickUpAddress">
+            <summary>
+            Dirección de recogida del vehículo
+            </summary>
+            <example>Carrera 27 #35-04 Edificio de testing</example>
+        </member>
+        <member name="P:CarRental.WebApi.Models.RentalModel.ReturnAddress">
+            <summary>
+            Dirección de retorno del vehículo
+            </summary>
+            <example>Carrera 5 #05-01 Edificio de cúcuta</example>
+        </member>
+        <member name="P:CarRental.WebApi.Models.RentalModel.ReturnTax">
+            <summary>
+            Tarifa a pagar si la sucursal de entrega difiere de la inicial, retornada por la consulta de vehículos
+            </summary>
+            <example>10</example>
+        </member>
+    </members>
+</doc>

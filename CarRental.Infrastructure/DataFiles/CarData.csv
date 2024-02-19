@@ -1,0 +1,251 @@
+﻿Id;Brand;Model;MarketOrigin;MarketLocation;Avaliable
+PLC-001;Chevrolet;Spark;Leticia - Amazonas;Leticia - Amazonas;true
+PLC-002;Ford;Fiesta;Leticia - Amazonas;Leticia - Amazonas;true
+PLC-003;Hyundai;i20;Leticia - Amazonas;Leticia - Amazonas;true
+PLC-004;Kia;Rio;Leticia - Amazonas;Leticia - Amazonas;true
+PLC-005;Mazda;m3;Leticia - Amazonas;Leticia - Amazonas;true
+PLC-006;Chevrolet;Spark;Medellín - Antioquia;Medellín - Antioquia;true
+PLC-007;Ford;Fiesta;Medellín - Antioquia;Medellín - Antioquia;true
+PLC-008;Hyundai;i20;Medellín - Antioquia;Medellín - Antioquia;true
+PLC-009;Kia;Rio;Medellín - Antioquia;Medellín - Antioquia;true
+PLC-010;Mazda;m3;Medellín - Antioquia;Medellín - Antioquia;true
+PLC-011;Chevrolet;Spark;Envigado - Antioquia;Envigado - Antioquia;true
+PLC-012;Ford;Fiesta;Envigado - Antioquia;Envigado - Antioquia;true
+PLC-013;Hyundai;i20;Envigado - Antioquia;Envigado - Antioquia;true
+PLC-014;Kia;Rio;Envigado - Antioquia;Envigado - Antioquia;true
+PLC-015;Mazda;m3;Envigado - Antioquia;Envigado - Antioquia;true
+PLC-016;Chevrolet;Spark;Itagüí - Antioquia;Itagüí - Antioquia;true
+PLC-017;Ford;Fiesta;Itagüí - Antioquia;Itagüí - Antioquia;true
+PLC-018;Hyundai;i20;Itagüí - Antioquia;Itagüí - Antioquia;true
+PLC-019;Kia;Rio;Itagüí - Antioquia;Itagüí - Antioquia;true
+PLC-020;Mazda;m3;Itagüí - Antioquia;Itagüí - Antioquia;true
+PLC-021;Chevrolet;Spark;Bello - Antioquia;Bello - Antioquia;true
+PLC-022;Ford;Fiesta;Bello - Antioquia;Bello - Antioquia;true
+PLC-023;Hyundai;i20;Bello - Antioquia;Bello - Antioquia;true
+PLC-024;Kia;Rio;Bello - Antioquia;Bello - Antioquia;true
+PLC-025;Mazda;m3;Bello - Antioquia;Bello - Antioquia;true
+PLC-026;Chevrolet;Spark;Arauca - Arauca;Arauca - Arauca;true
+PLC-027;Ford;Fiesta;Arauca - Arauca;Arauca - Arauca;true
+PLC-028;Hyundai;i20;Arauca - Arauca;Arauca - Arauca;true
+PLC-029;Kia;Rio;Arauca - Arauca;Arauca - Arauca;true
+PLC-030;Mazda;m3;Arauca - Arauca;Arauca - Arauca;true
+PLC-031;Chevrolet;Spark;Barranquilla - Atlántico;Barranquilla - Atlántico;true
+PLC-032;Ford;Fiesta;Barranquilla - Atlántico;Barranquilla - Atlántico;true
+PLC-033;Hyundai;i20;Barranquilla - Atlántico;Barranquilla - Atlántico;true
+PLC-034;Kia;Rio;Barranquilla - Atlántico;Barranquilla - Atlántico;true
+PLC-035;Mazda;m3;Barranquilla - Atlántico;Barranquilla - Atlántico;true
+PLC-036;Chevrolet;Spark;Soledad - Atlántico;Soledad - Atlántico;true
+PLC-037;Ford;Fiesta;Soledad - Atlántico;Soledad - Atlántico;true
+PLC-038;Hyundai;i20;Soledad - Atlántico;Soledad - Atlántico;true
+PLC-039;Kia;Rio;Soledad - Atlántico;Soledad - Atlántico;true
+PLC-040;Mazda;m3;Soledad - Atlántico;Soledad - Atlántico;true
+PLC-041;Chevrolet;Spark;Cartagena de Indias - Bolívar;Cartagena de Indias - Bolívar;true
+PLC-042;Ford;Fiesta;Cartagena de Indias - Bolívar;Cartagena de Indias - Bolívar;true
+PLC-043;Hyundai;i20;Cartagena de Indias - Bolívar;Cartagena de Indias - Bolívar;true
+PLC-044;Kia;Rio;Cartagena de Indias - Bolívar;Cartagena de Indias - Bolívar;true
+PLC-045;Mazda;m3;Cartagena de Indias - Bolívar;Cartagena de Indias - Bolívar;true
+PLC-046;Chevrolet;Spark;Magangué - Bolívar;Magangué - Bolívar;true
+PLC-047;Ford;Fiesta;Magangué - Bolívar;Magangué - Bolívar;true
+PLC-048;Hyundai;i20;Magangué - Bolívar;Magangué - Bolívar;true
+PLC-049;Kia;Rio;Magangué - Bolívar;Magangué - Bolívar;true
+PLC-050;Mazda;m3;Magangué - Bolívar;Magangué - Bolívar;true
+PLC-051;Chevrolet;Spark;Tunja - Boyacá;Tunja - Boyacá;true
+PLC-052;Ford;Fiesta;Tunja - Boyacá;Tunja - Boyacá;true
+PLC-053;Hyundai;i20;Tunja - Boyacá;Tunja - Boyacá;true
+PLC-054;Kia;Rio;Tunja - Boyacá;Tunja - Boyacá;true
+PLC-055;Mazda;m3;Tunja - Boyacá;Tunja - Boyacá;true
+PLC-056;Chevrolet;Spark;Duitama - Boyacá;Duitama - Boyacá;true
+PLC-057;Ford;Fiesta;Duitama - Boyacá;Duitama - Boyacá;true
+PLC-058;Hyundai;i20;Duitama - Boyacá;Duitama - Boyacá;true
+PLC-059;Kia;Rio;Duitama - Boyacá;Duitama - Boyacá;true
+PLC-060;Mazda;m3;Duitama - Boyacá;Duitama - Boyacá;true
+PLC-061;Chevrolet;Spark;Sogamoso - Boyacá;Sogamoso - Boyacá;true
+PLC-062;Ford;Fiesta;Sogamoso - Boyacá;Sogamoso - Boyacá;true
+PLC-063;Hyundai;i20;Sogamoso - Boyacá;Sogamoso - Boyacá;true
+PLC-064;Kia;Rio;Sogamoso - Boyacá;Sogamoso - Boyacá;true
+PLC-065;Mazda;m3;Sogamoso - Boyacá;Sogamoso - Boyacá;true
+PLC-066;Chevrolet;Spark;Manizales - Caldas;Manizales - Caldas;true
+PLC-067;Ford;Fiesta;Manizales - Caldas;Manizales - Caldas;true
+PLC-068;Hyundai;i20;Manizales - Caldas;Manizales - Caldas;true
+PLC-069;Kia;Rio;Manizales - Caldas;Manizales - Caldas;true
+PLC-070;Mazda;m3;Manizales - Caldas;Manizales - Caldas;true
+PLC-071;Chevrolet;Spark;Villamaría - Caldas;Villamaría - Caldas;true
+PLC-072;Ford;Fiesta;Villamaría - Caldas;Villamaría - Caldas;true
+PLC-073;Hyundai;i20;Villamaría - Caldas;Villamaría - Caldas;true
+PLC-074;Kia;Rio;Villamaría - Caldas;Villamaría - Caldas;true
+PLC-075;Mazda;m3;Villamaría - Caldas;Villamaría - Caldas;true
+PLC-076;Chevrolet;Spark;Chinchiná - Caldas;Chinchiná - Caldas;true
+PLC-077;Ford;Fiesta;Chinchiná - Caldas;Chinchiná - Caldas;true
+PLC-078;Hyundai;i20;Chinchiná - Caldas;Chinchiná - Caldas;true
+PLC-079;Kia;Rio;Chinchiná - Caldas;Chinchiná - Caldas;true
+PLC-080;Mazda;m3;Chinchiná - Caldas;Chinchiná - Caldas;true
+PLC-081;Chevrolet;Spark;Florencia - Caquetá;Florencia - Caquetá;true
+PLC-082;Ford;Fiesta;Florencia - Caquetá;Florencia - Caquetá;true
+PLC-083;Hyundai;i20;Florencia - Caquetá;Florencia - Caquetá;true
+PLC-084;Kia;Rio;Florencia - Caquetá;Florencia - Caquetá;true
+PLC-085;Mazda;m3;Florencia - Caquetá;Florencia - Caquetá;true
+PLC-086;Chevrolet;Spark;Yopal - Casanare;Yopal - Casanare;true
+PLC-087;Ford;Fiesta;Yopal - Casanare;Yopal - Casanare;true
+PLC-088;Hyundai;i20;Yopal - Casanare;Yopal - Casanare;true
+PLC-089;Kia;Rio;Yopal - Casanare;Yopal - Casanare;true
+PLC-090;Mazda;m3;Yopal - Casanare;Yopal - Casanare;true
+PLC-091;Chevrolet;Spark;Popayán - Cauca;Popayán - Cauca;true
+PLC-092;Ford;Fiesta;Popayán - Cauca;Popayán - Cauca;true
+PLC-093;Hyundai;i20;Popayán - Cauca;Popayán - Cauca;true
+PLC-094;Kia;Rio;Popayán - Cauca;Popayán - Cauca;true
+PLC-095;Mazda;m3;Popayán - Cauca;Popayán - Cauca;true
+PLC-096;Chevrolet;Spark;Santander de Quilichao - Cauca;Santander de Quilichao - Cauca;true
+PLC-097;Ford;Fiesta;Santander de Quilichao - Cauca;Santander de Quilichao - Cauca;true
+PLC-098;Hyundai;i20;Santander de Quilichao - Cauca;Santander de Quilichao - Cauca;true
+PLC-099;Kia;Rio;Santander de Quilichao - Cauca;Santander de Quilichao - Cauca;true
+PLC-100;Mazda;m3;Santander de Quilichao - Cauca;Santander de Quilichao - Cauca;true
+PLC-101;Chevrolet;Spark;Valledupar - Cesar;Valledupar - Cesar;true
+PLC-102;Ford;Fiesta;Valledupar - Cesar;Valledupar - Cesar;true
+PLC-103;Hyundai;i20;Valledupar - Cesar;Valledupar - Cesar;true
+PLC-104;Kia;Rio;Valledupar - Cesar;Valledupar - Cesar;true
+PLC-105;Mazda;m3;Valledupar - Cesar;Valledupar - Cesar;true
+PLC-106;Chevrolet;Spark;Quibdó - Chocó;Quibdó - Chocó;true
+PLC-107;Ford;Fiesta;Quibdó - Chocó;Quibdó - Chocó;true
+PLC-108;Hyundai;i20;Quibdó - Chocó;Quibdó - Chocó;true
+PLC-109;Kia;Rio;Quibdó - Chocó;Quibdó - Chocó;true
+PLC-110;Mazda;m3;Quibdó - Chocó;Quibdó - Chocó;true
+PLC-111;Chevrolet;Spark;Montería - Córdoba;Montería - Córdoba;true
+PLC-112;Ford;Fiesta;Montería - Córdoba;Montería - Córdoba;true
+PLC-113;Hyundai;i20;Montería - Córdoba;Montería - Córdoba;true
+PLC-114;Kia;Rio;Montería - Córdoba;Montería - Córdoba;true
+PLC-115;Mazda;m3;Montería - Córdoba;Montería - Córdoba;true
+PLC-116;Chevrolet;Spark;Cereté - Córdoba;Cereté - Córdoba;true
+PLC-117;Ford;Fiesta;Cereté - Córdoba;Cereté - Córdoba;true
+PLC-118;Hyundai;i20;Cereté - Córdoba;Cereté - Córdoba;true
+PLC-119;Kia;Rio;Cereté - Córdoba;Cereté - Córdoba;true
+PLC-120;Mazda;m3;Cereté - Córdoba;Cereté - Córdoba;true
+PLC-121;Chevrolet;Spark;Bogotá (Distrito Capital) - Cundinamarca;Bogotá (Distrito Capital) - Cundinamarca;true
+PLC-122;Ford;Fiesta;Bogotá (Distrito Capital) - Cundinamarca;Bogotá (Distrito Capital) - Cundinamarca;true
+PLC-123;Hyundai;i20;Bogotá (Distrito Capital) - Cundinamarca;Bogotá (Distrito Capital) - Cundinamarca;true
+PLC-124;Kia;Rio;Bogotá (Distrito Capital) - Cundinamarca;Bogotá (Distrito Capital) - Cundinamarca;true
+PLC-125;Mazda;m3;Bogotá (Distrito Capital) - Cundinamarca;Bogotá (Distrito Capital) - Cundinamarca;true
+PLC-126;Chevrolet;Spark;Soacha - Cundinamarca;Soacha - Cundinamarca;true
+PLC-127;Ford;Fiesta;Soacha - Cundinamarca;Soacha - Cundinamarca;true
+PLC-128;Hyundai;i20;Soacha - Cundinamarca;Soacha - Cundinamarca;true
+PLC-129;Kia;Rio;Soacha - Cundinamarca;Soacha - Cundinamarca;true
+PLC-130;Mazda;m3;Soacha - Cundinamarca;Soacha - Cundinamarca;true
+PLC-131;Chevrolet;Spark;Fusagasugá - Cundinamarca;Fusagasugá - Cundinamarca;true
+PLC-132;Ford;Fiesta;Fusagasugá - Cundinamarca;Fusagasugá - Cundinamarca;true
+PLC-133;Hyundai;i20;Fusagasugá - Cundinamarca;Fusagasugá - Cundinamarca;true
+PLC-134;Kia;Rio;Fusagasugá - Cundinamarca;Fusagasugá - Cundinamarca;true
+PLC-135;Mazda;m3;Fusagasugá - Cundinamarca;Fusagasugá - Cundinamarca;true
+PLC-136;Chevrolet;Spark;Girardot - Cundinamarca;Girardot - Cundinamarca;true
+PLC-137;Ford;Fiesta;Girardot - Cundinamarca;Girardot - Cundinamarca;true
+PLC-138;Hyundai;i20;Girardot - Cundinamarca;Girardot - Cundinamarca;true
+PLC-139;Kia;Rio;Girardot - Cundinamarca;Girardot - Cundinamarca;true
+PLC-140;Mazda;m3;Girardot - Cundinamarca;Girardot - Cundinamarca;true
+PLC-141;Chevrolet;Spark;Inírida - Guainía;Inírida - Guainía;true
+PLC-142;Ford;Fiesta;Inírida - Guainía;Inírida - Guainía;true
+PLC-143;Hyundai;i20;Inírida - Guainía;Inírida - Guainía;true
+PLC-144;Kia;Rio;Inírida - Guainía;Inírida - Guainía;true
+PLC-145;Mazda;m3;Inírida - Guainía;Inírida - Guainía;true
+PLC-146;Chevrolet;Spark;San José del Guaviare - Guaviare;San José del Guaviare - Guaviare;true
+PLC-147;Ford;Fiesta;San José del Guaviare - Guaviare;San José del Guaviare - Guaviare;true
+PLC-148;Hyundai;i20;San José del Guaviare - Guaviare;San José del Guaviare - Guaviare;true
+PLC-149;Kia;Rio;San José del Guaviare - Guaviare;San José del Guaviare - Guaviare;true
+PLC-150;Mazda;m3;San José del Guaviare - Guaviare;San José del Guaviare - Guaviare;true
+PLC-151;Chevrolet;Spark;Neiva - Huila;Neiva - Huila;true
+PLC-152;Ford;Fiesta;Neiva - Huila;Neiva - Huila;true
+PLC-153;Hyundai;i20;Neiva - Huila;Neiva - Huila;true
+PLC-154;Kia;Rio;Neiva - Huila;Neiva - Huila;true
+PLC-155;Mazda;m3;Neiva - Huila;Neiva - Huila;true
+PLC-156;Chevrolet;Spark;Garzón - Huila;Garzón - Huila;true
+PLC-157;Ford;Fiesta;Garzón - Huila;Garzón - Huila;true
+PLC-158;Hyundai;i20;Garzón - Huila;Garzón - Huila;true
+PLC-159;Kia;Rio;Garzón - Huila;Garzón - Huila;true
+PLC-160;Mazda;m3;Garzón - Huila;Garzón - Huila;true
+PLC-161;Chevrolet;Spark;Riohacha - La Guajira;Riohacha - La Guajira;true
+PLC-162;Ford;Fiesta;Riohacha - La Guajira;Riohacha - La Guajira;true
+PLC-163;Hyundai;i20;Riohacha - La Guajira;Riohacha - La Guajira;true
+PLC-164;Kia;Rio;Riohacha - La Guajira;Riohacha - La Guajira;true
+PLC-165;Mazda;m3;Riohacha - La Guajira;Riohacha - La Guajira;true
+PLC-166;Chevrolet;Spark;Maicao - La Guajira;Maicao - La Guajira;true
+PLC-167;Ford;Fiesta;Maicao - La Guajira;Maicao - La Guajira;true
+PLC-168;Hyundai;i20;Maicao - La Guajira;Maicao - La Guajira;true
+PLC-169;Kia;Rio;Maicao - La Guajira;Maicao - La Guajira;true
+PLC-170;Mazda;m3;Maicao - La Guajira;Maicao - La Guajira;true
+PLC-171;Chevrolet;Spark;Santa Marta - Magdalena;Santa Marta - Magdalena;true
+PLC-172;Ford;Fiesta;Santa Marta - Magdalena;Santa Marta - Magdalena;true
+PLC-173;Hyundai;i20;Santa Marta - Magdalena;Santa Marta - Magdalena;true
+PLC-174;Kia;Rio;Santa Marta - Magdalena;Santa Marta - Magdalena;true
+PLC-175;Mazda;m3;Santa Marta - Magdalena;Santa Marta - Magdalena;true
+PLC-176;Chevrolet;Spark;Ciénaga - Magdalena;Ciénaga - Magdalena;true
+PLC-177;Ford;Fiesta;Ciénaga - Magdalena;Ciénaga - Magdalena;true
+PLC-178;Hyundai;i20;Ciénaga - Magdalena;Ciénaga - Magdalena;true
+PLC-179;Kia;Rio;Ciénaga - Magdalena;Ciénaga - Magdalena;true
+PLC-180;Mazda;m3;Ciénaga - Magdalena;Ciénaga - Magdalena;true
+PLC-181;Chevrolet;Spark;Villavicencio - Meta;Villavicencio - Meta;true
+PLC-182;Ford;Fiesta;Villavicencio - Meta;Villavicencio - Meta;true
+PLC-183;Hyundai;i20;Villavicencio - Meta;Villavicencio - Meta;true
+PLC-184;Kia;Rio;Villavicencio - Meta;Villavicencio - Meta;true
+PLC-185;Mazda;m3;Villavicencio - Meta;Villavicencio - Meta;true
+PLC-186;Chevrolet;Spark;Granada - Meta;Granada - Meta;true
+PLC-187;Ford;Fiesta;Granada - Meta;Granada - Meta;true
+PLC-188;Hyundai;i20;Granada - Meta;Granada - Meta;true
+PLC-189;Kia;Rio;Granada - Meta;Granada - Meta;true
+PLC-190;Mazda;m3;Granada - Meta;Granada - Meta;true
+PLC-191;Chevrolet;Spark;Pasto - Nariño;Pasto - Nariño;true
+PLC-192;Ford;Fiesta;Pasto - Nariño;Pasto - Nariño;true
+PLC-193;Hyundai;i20;Pasto - Nariño;Pasto - Nariño;true
+PLC-194;Kia;Rio;Pasto - Nariño;Pasto - Nariño;true
+PLC-195;Mazda;m3;Pasto - Nariño;Pasto - Nariño;true
+PLC-196;Chevrolet;Spark;Tumaco - Nariño;Tumaco - Nariño;true
+PLC-197;Ford;Fiesta;Tumaco - Nariño;Tumaco - Nariño;true
+PLC-198;Hyundai;i20;Tumaco - Nariño;Tumaco - Nariño;true
+PLC-199;Kia;Rio;Tumaco - Nariño;Tumaco - Nariño;true
+PLC-200;Mazda;m3;Tumaco - Nariño;Tumaco - Nariño;true
+PLC-201;Chevrolet;Spark;Cúcuta - Norte de Santander;Cúcuta - Norte de Santander;true
+PLC-202;Ford;Fiesta;Cúcuta - Norte de Santander;Cúcuta - Norte de Santander;true
+PLC-203;Hyundai;i20;Cúcuta - Norte de Santander;Cúcuta - Norte de Santander;true
+PLC-204;Kia;Rio;Cúcuta - Norte de Santander;Cúcuta - Norte de Santander;true
+PLC-205;Mazda;m3;Cúcuta - Norte de Santander;Cúcuta - Norte de Santander;true
+PLC-206;Chevrolet;Spark;Ocaña - Norte de Santander;Ocaña - Norte de Santander;true
+PLC-207;Ford;Fiesta;Ocaña - Norte de Santander;Ocaña - Norte de Santander;true
+PLC-208;Hyundai;i20;Ocaña - Norte de Santander;Ocaña - Norte de Santander;true
+PLC-209;Kia;Rio;Ocaña - Norte de Santander;Ocaña - Norte de Santander;true
+PLC-210;Mazda;m3;Ocaña - Norte de Santander;Ocaña - Norte de Santander;true
+PLC-211;Chevrolet;Spark;Mocoa - Putumayo;Mocoa - Putumayo;true
+PLC-212;Ford;Fiesta;Mocoa - Putumayo;Mocoa - Putumayo;true
+PLC-213;Hyundai;i20;Mocoa - Putumayo;Mocoa - Putumayo;true
+PLC-214;Kia;Rio;Mocoa - Putumayo;Mocoa - Putumayo;true
+PLC-215;Mazda;m3;Mocoa - Putumayo;Mocoa - Putumayo;true
+PLC-216;Chevrolet;Spark;Armenia - Quindío;Armenia - Quindío;true
+PLC-217;Ford;Fiesta;Armenia - Quindío;Armenia - Quindío;true
+PLC-218;Hyundai;i20;Armenia - Quindío;Armenia - Quindío;true
+PLC-219;Kia;Rio;Armenia - Quindío;Armenia - Quindío;true
+PLC-220;Mazda;m3;Armenia - Quindío;Armenia - Quindío;true
+PLC-221;Chevrolet;Spark;Pereira - Risaralda;Pereira - Risaralda;true
+PLC-222;Ford;Fiesta;Pereira - Risaralda;Pereira - Risaralda;true
+PLC-223;Hyundai;i20;Pereira - Risaralda;Pereira - Risaralda;true
+PLC-224;Kia;Rio;Pereira - Risaralda;Pereira - Risaralda;true
+PLC-225;Mazda;m3;Pereira - Risaralda;Pereira - Risaralda;true
+PLC-226;Chevrolet;Spark;Bucaramanga - Santander;Bucaramanga - Santander;true
+PLC-227;Ford;Fiesta;Bucaramanga - Santander;Bucaramanga - Santander;true
+PLC-228;Hyundai;i20;Bucaramanga - Santander;Bucaramanga - Santander;true
+PLC-229;Kia;Rio;Bucaramanga - Santander;Bucaramanga - Santander;true
+PLC-230;Mazda;m3;Bucaramanga - Santander;Bucaramanga - Santander;false
+PLC-231;Chevrolet;Spark;Girón - Santander;Girón - Santander;true
+PLC-232;Ford;Fiesta;Girón - Santander;Girón - Santander;true
+PLC-233;Hyundai;i20;Girón - Santander;Girón - Santander;true
+PLC-234;Kia;Rio;Girón - Santander;Girón - Santander;true
+PLC-235;Mazda;m3;Girón - Santander;Girón - Santander;true
+PLC-236;Chevrolet;Spark;Floridablanca - Santander;Floridablanca - Santander;true
+PLC-237;Ford;Fiesta;Floridablanca - Santander;Floridablanca - Santander;true
+PLC-238;Hyundai;i20;Floridablanca - Santander;Floridablanca - Santander;true
+PLC-239;Kia;Rio;Floridablanca - Santander;Floridablanca - Santander;true
+PLC-240;Mazda;m3;Floridablanca - Santander;Floridablanca - Santander;true
+PLC-241;Chevrolet;Spark;San Gil - Santander;San Gil - Santander;true
+PLC-242;Ford;Fiesta;San Gil - Santander;San Gil - Santander;true
+PLC-243;Hyundai;i20;San Gil - Santander;San Gil - Santander;true
+PLC-244;Kia;Rio;San Gil - Santander;San Gil - Santander;true
+PLC-245;Mazda;m3;San Gil - Santander;San Gil - Santander;true
+PLC-246;Chevrolet;Spark;Piedecuesta - Santander;Piedecuesta - Santander;true
+PLC-247;Ford;Fiesta;Piedecuesta - Santander;Piedecuesta - Santander;true
+PLC-248;Hyundai;i20;Piedecuesta - Santander;Piedecuesta - Santander;true
+PLC-249;Kia;Rio;Piedecuesta - Santander;Piedecuesta - Santander;true
+PLC-250;Mazda;m3;Piedecuesta - Santander;Piedecuesta - Santander;true

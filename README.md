@@ -2,6 +2,7 @@
 API que permite consultar disponibilidad de vehículos para renta según la ubicación, incluye consumos para registrar transacciones de renta y consultarlas por medio del id
 
 ============================ Servicios ============================
+
 GetNearbyCars: recibe dos parámetros con la información de la sucursal que emitirá el vehículo y la sucursal donde se entregará una vez finalice el servicio, los parámetros se entregarán siguiendo la estructura Ciudad - Departamento en ambos casos. Retornará una respuesta de código 200 con la lista de vehículos disponibles y una tarifa de devolución en caso de no devolver el vehículo en la misma sucursal de origen. Si no hay vehículos, retornará una respuesta de código 204. En la ejecución del proyecto se incluyen los ejemplos en documentación de swagger.
 
 AddService: recibirá un body json con la información del vehículo y las direcciones de recogida y entrega del vehículo rentado, retornará una respuesta de código 200 con el id de la transacción y un mensaje de exitoso. Swagger incluye documentación y un ejemplo del request body.
